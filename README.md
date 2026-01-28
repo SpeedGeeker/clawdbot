@@ -1,9 +1,8 @@
-# 🦞 Clawdbot 中文版
 
 **私有化部署的 AI 智能助手，完整中文本地化。**
 
 <p align="center">
-  <img src="docs/images/main-view.png" alt="Clawdbot 中文版控制界面" width="800">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a78f2834-5277-4539-94a4-272093aa604a" /># 🦞 Clawdbot 中文版
 </p>
 
 
@@ -70,6 +69,10 @@ pnpm clawdbot-cn onboard --install-daemon
 
 ## 📚 文档
 
+- [快速开始]()
+- [Gateway 配置]()
+- [渠道接入]()
+- [技能开发]()
 
 
 ## 🔄 版本同步
@@ -94,8 +97,13 @@ pnpm clawdbot-cn onboard --install-daemon
 - [ ] 微信渠道适配
 - [ ] QQ 渠道适配
 - [ ] 钉钉/企业微信/飞书适配
+## 📄 学习交流群
+<img width="171" height="221" alt="image" src="https://github.com/user-attachments/assets/70b16889-8324-4b55-b0bf-df792948cef7" />
+
 
 ## 📄 许可证
+
+
 
 [MIT](LICENSE)
 
